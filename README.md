@@ -6,7 +6,7 @@ Features
 
 Display of scores for two teams
 Buttons to increment the score for each team
-Dropdown menu to select the winning score
+The dropdown menu to select the winning score
 Reset button to reset the scores to zero
 
 Technologies Used
